@@ -340,7 +340,9 @@ function mapIconResources (icons, iconsDir) {
         {dest: 'AppIcon40x40@2x.png', width: 80, height: 80},
         {dest: 'AppIcon44x44@2x.png', width: 88, height: 88},
         {dest: 'AppIcon86x86@2x.png', width: 172, height: 172},
-        {dest: 'AppIcon98x98@2x.png', width: 196, height: 196}
+        {dest: 'AppIcon98x98@2x.png', width: 196, height: 196},
+        {dest: 'iTunesArtwork.png', width: 512, height: 512},
+        {dest: 'iTunesArtwork@2x.png', width: 1024, height: 1024}
     ];
 
     var pathMap = {};
